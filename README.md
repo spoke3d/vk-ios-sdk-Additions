@@ -19,17 +19,17 @@ Implemented additions
 =====================
 
 VKApiWall
-_________
+=========
 
 `https://vk.com/dev/wall.get` - Returns a list of records from the wall or the user community.
 
 VKApiFriends
-____________
+============
 
 `https://vk.com/dev/friends.get` - Returns a list of user IDs of friends or extended information about a user Friends.
 
 VKApiDocs
-_________
+=========
 
 `https://vk.com/dev/docs.search` - It returns the search results according to the documents.
 
