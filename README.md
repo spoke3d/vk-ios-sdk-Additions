@@ -7,3 +7,29 @@ Prepare for Using VK SDK
 ________________________
 
 To use VK SDK Additions primarily you need to add vk-ios-sdk in your project. Detail information you can found there https://github.com/VKCOM/vk-ios-sdk/blob/master/README.md#how-to-set-up-vk-ios-sdk
+
+
+Using SDK
+=========
+
+For use vk-ios-sdk Additions you need to import "VKSDK+Additions.h" in *.pch file or in current class of use.
+
+
+Implemented additions
+=====================
+
+VKApiWall
+_________
+
+`https://vk.com/dev/wall.get` - Returns a list of records from the wall or the user community.
+
+VKApiFriends
+____________
+
+`https://vk.com/dev/friends.get` - Returns a list of user IDs of friends or extended information about a user Friends.
+
+VKApiDocs
+_________
+
+`https://vk.com/dev/docs.search` - It returns the search results according to the documents.
+
